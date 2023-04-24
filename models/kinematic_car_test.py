@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/Users/clausdz/Documents/GitHub/cbf/")
+
 import math
 
 import matplotlib.patches as patches
